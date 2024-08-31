@@ -1,10 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import names from './my.json';
-import ndata from './mynames.json';
-import tn from './totalnames.json';
-import './Game.css';
-
+import names from '../myjson/my.json';
+import ndata from '../myjson/mynames.json';
+import tn from '../myjson/totalnames.json';
+import '../mycss/Game.css';
 const Game = () => {
   const [chances, setChances] = useState(5);
   const [warn, setWarn] = useState('');

@@ -64,7 +64,7 @@
       "teams_played": [
         "Royal Challengers Bangalore",
         "Kolkata Knight Riders",
-        "Pune Warriors India"
+        "Kings XI Punjab"
       ],
       "role_in_team": "Batsman",
       "most_runs_in_season": 733,
@@ -105,795 +105,805 @@
       "most_wickets_in_season": null,
       "best_record": "Most runs in a single season for Sunrisers Hyderabad"
     },
-    {
-      "name": "Andre Russell",
-      "nationality": "West Indian",
-      "teams_played": [
-        "Kolkata Knight Riders"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 510,
-      "most_wickets_in_season": 52,
-      "best_record": "Most wickets in an IPL season by an all-rounder"
-    },
-    {
-      "name": "Rashid Khan",
-      "nationality": "Afghan",
-      "teams_played": [
-        "Sunrisers Hyderabad",
-        "Gujarat Titans"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 21,
-      "best_record": "Best economy rate in a season (6.33)"
-    },
-    {
-      "name": "Shane Watson",
-      "nationality": "Australian",
-      "teams_played": [
-        "Chennai Super Kings",
-        "Rajasthan Royals"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 555,
-      "most_wickets_in_season": 20,
-      "best_record": "Player of the Tournament in 2008 IPL season"
-    },
-    {
-      "name": "Yusuf Pathan",
-      "nationality": "Indian",
-      "teams_played": [
-        "Kolkata Knight Riders",
-        "Rajasthan Royals"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 474,
-      "most_wickets_in_season": 24,
-      "best_record": "Most valuable player in 2008 IPL final"
-    },
-    {
-      "name": "Gautam Gambhir",
-      "nationality": "Indian",
-      "teams_played": [
-        "Kolkata Knight Riders",
-        "Delhi Capitals"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 590,
-      "most_wickets_in_season": null,
-      "best_record": "Captain of two IPL winning teams"
-    },
-    {
-      "name": "Shikhar Dhawan",
-      "nationality": "Indian",
-      "teams_played": [
-        "Delhi Capitals",
-        "Sunrisers Hyderabad",
-        "Punjab Kings"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 618,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a single season for Sunrisers Hyderabad"
-    },
-    {
-      "name": "Jasprit Bumrah",
-      "nationality": "Indian",
-      "teams_played": [
-        "Mumbai Indians"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 32,
-      "best_record": "Most dot balls in a season"
-    },
-    {
-      "name": "KL Rahul",
-      "nationality": "Indian",
-      "teams_played": [
-        "Punjab Kings",
-        "Lucknow Super Giants"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 670,
-      "most_wickets_in_season": null,
-      "best_record": "Highest run-scorer for Punjab Kings"
-    },
-    {
-      "name": "Hardik Pandya",
-      "nationality": "Indian",
-      "teams_played": [
-        "Mumbai Indians",
-        "Gujarat Titans"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 602,
-      "most_wickets_in_season": 45,
-      "best_record": "Most sixes in a season by an all-rounder"
-    },
-    {
-      "name": "Ravindra Jadeja",
-      "nationality": "Indian",
-      "teams_played": [
-        "Chennai Super Kings",
-        "Gujarat Lions"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 491,
-      "most_wickets_in_season": 30,
-      "best_record": "Best bowling figures for a Chennai Super Kings player"
-    },
-    {
-      "name": "Dwayne Bravo",
-      "nationality": "West Indian",
-      "teams_played": [
-        "Chennai Super Kings",
-        "Mumbai Indians"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 436,
-      "most_wickets_in_season": 32,
-      "best_record": "Most wickets in an IPL season (32)"
-    },
-    {
-      "name": "Faf du Plessis",
-      "nationality": "South African",
-      "teams_played": [
-        "Chennai Super Kings",
-        "Royal Challengers Bangalore"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 633,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Royal Challengers Bangalore"
-    },
-    {
-      "name": "Kieron Pollard",
-      "nationality": "West Indian",
-      "teams_played": [
-        "Mumbai Indians"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 420,
-      "most_wickets_in_season": 15,
-      "best_record": "Most matches played for Mumbai Indians"
-    },
-    {
-      "name": "Bhuvneshwar Kumar",
-      "nationality": "Indian",
-      "teams_played": [
-        "Sunrisers Hyderabad"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 26,
-      "best_record": "Best economy rate in a season by an Indian bowler"
-    },
-    {
-      "name": "Yuzvendra Chahal",
-      "nationality": "Indian",
-      "teams_played": [
-        "Royal Challengers Bangalore",
-        "Rajasthan Royals"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 26,
-      "best_record": "Most wickets in a season for Royal Challengers Bangalore"
-    },
-    {
-      "name": "Ajinkya Rahane",
-      "nationality": "Indian",
-      "teams_played": [
-        "Rajasthan Royals",
-        "Chennai Super Kings"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 560,
-      "most_wickets_in_season": null,
-      "best_record": "Highest individual score for Rajasthan Royals"
-    },
-    {
-      "name": "Rishabh Pant",
-      "nationality": "Indian",
-      "teams_played": [
-        "Delhi Capitals"
-      ],
-      "role_in_team": "Wicketkeeper-Batsman",
-      "most_runs_in_season": 684,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Delhi Capitals"
-    },
-    {
-      "name": "Dinesh Karthik",
-      "nationality": "Indian",
-      "teams_played": [
-        "Kolkata Knight Riders",
-        "Royal Challengers Bangalore"
-      ],
-      "role_in_team": "Wicketkeeper-Batsman",
-      "most_runs_in_season": 525,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Kolkata Knight Riders"
-    },
-    {
-      "name": "Glenn Maxwell",
-      "nationality": "Australian",
-      "teams_played": [
-        "Punjab Kings",
-        "Royal Challengers Bangalore"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 513,
-      "most_wickets_in_season": null,
-      "best_record": "Most sixes in a season for Royal Challengers Bangalore"
-    },
-    {
-      "name": "Quinton de Kock",
-      "nationality": "South African",
-      "teams_played": [
-        "Mumbai Indians",
-        "Lucknow Super Giants"
-      ],
-      "role_in_team": "Wicketkeeper-Batsman",
-      "most_runs_in_season": 529,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Mumbai Indians"
-    },
-    {
-      "name": "Sanju Samson",
-      "nationality": "Indian",
-      "teams_played": [
-        "Rajasthan Royals"
-      ],
-      "role_in_team": "Wicketkeeper-Batsman",
-      "most_runs_in_season": 484,
-      "most_wickets_in_season": null,
-      "best_record": "Highest run-scorer for Rajasthan Royals"
-    },
-    {
-      "name": "Robin Uthappa",
-      "nationality": "Indian",
-      "teams_played": [
-        "Kolkata Knight Riders",
-        "Chennai Super Kings"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 660,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Kolkata Knight Riders"
-    },
-    {
-      "name": "Ambati Rayudu",
-      "nationality": "Indian",
-      "teams_played": [
-        "Mumbai Indians",
-        "Chennai Super Kings"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 602,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Chennai Super Kings"
-    },
-    {
-      "name": "Mitchell Starc",
-      "nationality": "Australian",
-      "teams_played": [
-        "Royal Challengers Bangalore"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 20,
-      "best_record": "Best bowling figures for Royal Challengers Bangalore"
-    },
-    {
-      "name": "Kagiso Rabada",
-      "nationality": "South African",
-      "teams_played": [
-        "Delhi Capitals",
-        "Punjab Kings"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 30,
-      "best_record": "Most wickets in a season for Delhi Capitals"
-    },
-    {
-      "name": "Trent Boult",
-      "nationality": "New Zealand",
-      "teams_played": [
-        "Mumbai Indians",
-        "Rajasthan Royals"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 25,
-      "best_record": "Best bowling figures in a match (4/18)"
-    },
-    {
-      "name": "Mohammed Shami",
-      "nationality": "Indian",
-      "teams_played": [
-        "Punjab Kings",
-        "Gujarat Titans"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 20,
-      "best_record": "Best bowling figures for Punjab Kings"
-    },
-    {
-      "name": "Sikandar Raza",
-      "nationality": "Zimbabwean",
-      "teams_played": [
-        "Punjab Kings"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 319,
-      "most_wickets_in_season": 10,
-      "best_record": "Best all-round performance for Punjab Kings"
-    },
-    {
-      "name": "Nicholas Pooran",
-      "nationality": "West Indian",
-      "teams_played": [
-        "Lucknow Super Giants",
-        "Sunrisers Hyderabad"
-      ],
-      "role_in_team": "Wicketkeeper-Batsman",
-      "most_runs_in_season": 306,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Lucknow Super Giants"
-    },
-    {
-      "name": "Marcus Stoinis",
-      "nationality": "Australian",
-      "teams_played": [
-        "Lucknow Super Giants",
-        "Delhi Capitals"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 352,
-      "most_wickets_in_season": 13,
-      "best_record": "Best all-round performance for Delhi Capitals"
-    },
-    {
-      "name": "Prithvi Shaw",
-      "nationality": "Indian",
-      "teams_played": [
-        "Delhi Capitals"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 716,
-      "most_wickets_in_season": null,
-      "best_record": "Highest run-scorer for Delhi Capitals"
-    },
-    {
-      "name": "Shubman Gill",
-      "nationality": "Indian",
-      "teams_played": [
-        "Gujarat Titans",
-        "Kolkata Knight Riders"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 890,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Gujarat Titans"
-    },
-    {
-      "name": "Pat Cummins",
-      "nationality": "Australian",
-      "teams_played": [
-        "Kolkata Knight Riders"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 59,
-      "best_record": "Best bowling figures for Kolkata Knight Riders"
-    },
-    {
-      "name": "Sam Curran",
-      "nationality": "English",
-      "teams_played": [
-        "Punjab Kings",
-        "Chennai Super Kings"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 383,
-      "most_wickets_in_season": 32,
-      "best_record": "Most valuable player in a season for Chennai Super Kings"
-    },
-    {
-      "name": "Ruturaj Gaikwad",
-      "nationality": "Indian",
-      "teams_played": [
-        "Chennai Super Kings"
-      ],
-      "role_in_team": "Batsman",
-      "most_runs_in_season": 636,
-      "most_wickets_in_season": null,
-      "best_record": "Most runs in a season for Chennai Super Kings"
-    },
-    {
-      "name": "Deepak Chahar",
-      "nationality": "Indian",
-      "teams_played": [
-        "Chennai Super Kings"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 26,
-      "best_record": "Best bowling figures for Chennai Super Kings"
-    },
-    {
-      "name": "Varun Chakravarthy",
-      "nationality": "Indian",
-      "teams_played": [
-        "Kolkata Knight Riders"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 25,
-      "best_record": "Best economy rate in a season for Kolkata Knight Riders"
-    },
-    {
-      "name": "Rahul Tewatia",
-      "nationality": "Indian",
-      "teams_played": [
-        "Gujarat Titans",
-        "Rajasthan Royals"
-      ],
-      "role_in_team": "All-Rounder",
-      "most_runs_in_season": 255,
-      "most_wickets_in_season": 15,
-      "best_record": "Most valuable player in a season for Gujarat Titans"
-    },
-    {
-      "name": "Sandeep Sharma",
-      "nationality": "Indian",
-      "teams_played": [
-        "Punjab Kings",
-        "Rajasthan Royals"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 25,
-      "best_record": "Best economy rate in a season for Punjab Kings"
-    },
-    {
-      "name": "Kuldeep Yadav",
-      "nationality": "Indian",
-      "teams_played": [
-        "Delhi Capitals",
-        "Kolkata Knight Riders"
-      ],
-      "role_in_team": "Bowler",
-      "most_runs_in_season": null,
-      "most_wickets_in_season": 45,
-      "best_record": "Best bowling figures for Kolkata Knight Riders"
-    },
-    {
-      "name": "Ishan Kishan",
-      "nationality": "Indian",
-      "teams_played": [
-        "Mumbai Indians"
-      ],
-      "role_in_team": "Wicketkeeper-Batsman",
-      "most_runs_in_season": 516,
-      "most_wickets_in_season": null,
-      "best_record": "Highest run-scorer for Mumbai Indians"
-    },
+      {
+        "name": "Andre Russell",
+        "nationality": "West Indian",
+        "teams_played": [
+          "Kolkata Knight Riders",
+          "Delhi Daredevils"
+        ],
+        "role_in_team": "All-Rounder",
+        "most_runs_in_season": 510,
+        "most_wickets_in_season": 17,
+        "best_record": "Most wickets in a season by an all-rounder"
+      },
+      {
+        "name": "Rashid Khan",
+        "nationality": "Afghan",
+        "teams_played": [
+          "Sunrisers Hyderabad",
+          "Gujarat Titans"
+        ],
+        "role_in_team": "Bowler",
+        "most_runs_in_season": null,
+        "most_wickets_in_season": 21,
+        "best_record": "Best economy rate in a season (6.33)"
+      },
+      {
+        "name": "Shane Watson",
+        "nationality": "Australian",
+        "teams_played": [
+          "Chennai Super Kings",
+          "Rajasthan Royals"
+        ],
+        "role_in_team": "All-Rounder",
+        "most_runs_in_season": 555,
+        "most_wickets_in_season": 20,
+        "best_record": "Player of the Tournament in 2008 IPL season"
+      },
+      {
+        "name": "Yusuf Pathan",
+        "nationality": "Indian",
+        "teams_played": [
+          "Kolkata Knight Riders",
+          "Rajasthan Royals"
+        ],
+        "role_in_team": "All-Rounder",
+        "most_runs_in_season": 474,
+        "most_wickets_in_season": 24,
+        "best_record": "Most valuable player in 2008 IPL final"
+      },
+      {
+        "name": "Gautam Gambhir",
+        "nationality": "Indian",
+        "teams_played": [
+          "Kolkata Knight Riders",
+          "Delhi Capitals"
+        ],
+        "role_in_team": "Batsman",
+        "most_runs_in_season": 590,
+        "most_wickets_in_season": null,
+        "best_record": "Captain of two IPL winning teams"
+      },
+      {
+        "name": "Shikhar Dhawan",
+        "nationality": "Indian",
+        "teams_played": [
+          "Delhi Capitals",
+          "Sunrisers Hyderabad",
+          "Punjab Kings"
+        ],
+        "role_in_team": "Batsman",
+        "most_runs_in_season": 618,
+        "most_wickets_in_season": null,
+        "best_record": "Most runs in a single season for Sunrisers Hyderabad"
+      },
+      {
+        "name": "Jasprit Bumrah",
+        "nationality": "Indian",
+        "teams_played": [
+          "Mumbai Indians"
+        ],
+        "role_in_team": "Bowler",
+        "most_runs_in_season": null,
+        "most_wickets_in_season": 32,
+        "best_record": "Most dot balls in a season"
+      },
+      {
+        "name": "KL Rahul",
+        "nationality": "Indian",
+        "teams_played": [
+          "Punjab Kings",
+          "Lucknow Super Giants"
+        ],
+        "role_in_team": "Batsman",
+        "most_runs_in_season": 670,
+        "most_wickets_in_season": null,
+        "best_record": "Highest run-scorer for Punjab Kings"
+      },
+      {
+        "name": "Hardik Pandya",
+        "nationality": "Indian",
+        "teams_played": [
+          "Mumbai Indians",
+          "Gujarat Titans"
+        ],
+        "role_in_team": "All-Rounder",
+        "most_runs_in_season": 602,
+        "most_wickets_in_season": 45,
+        "best_record": "Most sixes in a season by an all-rounder"
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "nationality": "Indian",
+        "teams_played": [
+          "Chennai Super Kings",
+          "Gujarat Lions"
+        ],
+        "role_in_team": "All-Rounder",
+        "most_runs_in_season": 491,
+        "most_wickets_in_season": 30,
+        "best_record": "Best bowling figures for a Chennai Super Kings player"
+      },
+      {
+        "name": "Dwayne Bravo",
+        "nationality": "West Indian",
+        "teams_played": [
+          "Chennai Super Kings",
+          "Mumbai Indians"
+        ],
+        "role_in_team": "All-Rounder",
+        "most_runs_in_season": 436,
+        "most_wickets_in_season": 32,
+        "best_record": "Most wickets in an IPL season (32)"
+      },
+      {
+        "name": "Faf du Plessis",
+        "nationality": "South African",
+        "teams_played": [
+          "Chennai Super Kings",
+          "Royal Challengers Bangalore"
+        ],
+        "role_in_team": "Batsman",
+        "most_runs_in_season": 633,
+        "most_wickets_in_season": null,
+        "best_record": "Most runs in a season for Royal Challengers Bangalore"
+      },
+      {
+        "name": "Kieron Pollard",
+        "nationality": "West Indian",
+        "teams_played": [
+          "Mumbai Indians"
+        ],
+        "role_in_team": "All-Rounder",
+        "most_runs_in_season": 420,
+        "most_wickets_in_season": 15,
+        "best_record": "Most matches played for Mumbai Indians"
+      },
+      {
+        "name": "Bhuvneshwar Kumar",
+        "nationality": "Indian",
+        "teams_played": [
+          "Sunrisers Hyderabad"
+        ],
+        "role_in_team": "Bowler",
+        "most_runs_in_season": null,
+        "most_wickets_in_season": 26,
+        "best_record": "Best economy rate in a season by an Indian bowler"
+      },
+      {
+        "name": "Yuzvendra Chahal",
+        "nationality": "Indian",
+        "teams_played": [
+          "Royal Challengers Bangalore",
+          "Rajasthan Royals"
+        ],
+        "role_in_team": "Bowler",
+        "most_runs_in_season": null,
+        "most_wickets_in_season": 26,
+        "best_record": "Most wickets in a season for Royal Challengers Bangalore"
+      },
+      {
+        "name": "Ajinkya Rahane",
+        "nationality": "Indian",
+        "teams_played": [
+          "Rajasthan Royals",
+          "Chennai Super Kings"
+        ],
+        "role_in_team": "Batsman",
+        "most_runs_in_season": 560,
+        "most_wickets_in_season": null,
+        "best_record": "Highest individual score for Rajasthan Royals"
+      },
+      {
+        "name": "Rishabh Pant",
+        "nationality": "Indian",
+        "teams_played": [
+          "Delhi Capitals"
+        ],
+        "role_in_team": "Wicketkeeper-Batsman",
+        "most_runs_in_season": 684,
+        "most_wickets_in_season": null,
+        "best_record": "Most runs in a season for Delhi Capitals"
+      },
+      {
+        "name": "Dinesh Karthik",
+        "nationality": "Indian",
+        "teams_played": [
+          "Kolkata Knight Riders",
+          "Royal Challengers Bangalore"
+        ],
+        "role_in_team": "Wicketkeeper-Batsman",
+        "most_runs_in_season": 525,
+        "most_wickets_in_season": null,
+        "best_record": "Most runs in a season for Kolkata Knight Riders"
+      },
+      {
+        "name": "Glenn Maxwell",
+        "nationality": "Australian",
+        "teams_played": [
+          "Punjab Kings",
+          "Royal Challengers Bangalore"
+        ],
+        "role_in_team": "All-Rounder",
+        "most_runs_in_season": 513,
+        "most_wickets_in_season": null,
+        "best_record": "Most sixes in a season for Royal Challengers Bangalore"
+      },
         {
-          "name": "Murali Vijay",
-          "nationality": "Indian",
-          "teams_played": [
-            "Chennai Super Kings"
-          ],
-          "role_in_team": "Batsman",
-          "most_runs_in_season": 434,
-          "most_wickets_in_season": null,
-          "best_record": "Most runs for Chennai Super Kings in 2010"
-        },
-        {
-          "name": "Manish Pandey",
-          "nationality": "Indian",
-          "teams_played": [
-            "Kolkata Knight Riders",
-            "Sunrisers Hyderabad",
-            "Lucknow Super Giants"
-          ],
-          "role_in_team": "Batsman",
-          "most_runs_in_season": 648,
-          "most_wickets_in_season": null,
-          "best_record": "Highest run-scorer for Kolkata Knight Riders in 2014"
-        },
-        {
-          "name": "Parthiv Patel",
-          "nationality": "Indian",
-          "teams_played": [
-            "Mumbai Indians",
-            "Royal Challengers Bangalore"
-          ],
-          "role_in_team": "Wicketkeeper-Batsman",
-          "most_runs_in_season": 443,
-          "most_wickets_in_season": null,
-          "best_record": "Most runs for Royal Challengers Bangalore in 2015"
-        },
-        {
-          "name": "Mayank Agarwal",
-          "nationality": "Indian",
-          "teams_played": [
-            "Punjab Kings",
-            "Sunrisers Hyderabad"
-          ],
-          "role_in_team": "Batsman",
-          "most_runs_in_season": 641,
-          "most_wickets_in_season": null,
-          "best_record": "Highest run-scorer for Punjab Kings in 2020"
-        },
-        {
-          "name": "Rahul Dravid",
-          "nationality": "Indian",
-          "teams_played": [
-            "Royal Challengers Bangalore",
-            "Rajasthan Royals"
-          ],
-          "role_in_team": "Batsman",
-          "most_runs_in_season": 343,
-          "most_wickets_in_season": null,
-          "best_record": "Most runs in a season for Rajasthan Royals in 2008"
-        },
-        {
-          "name": "Venkatesh Iyer",
-          "nationality": "Indian",
-          "teams_played": [
-            "Kolkata Knight Riders"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 370,
-          "most_wickets_in_season": 12,
-          "best_record": "Most valuable player for Kolkata Knight Riders in 2021"
-        },
-        {
-          "name": "Ben Stokes",
-          "nationality": "English",
-          "teams_played": [
-            "Rajasthan Royals",
-            "Chennai Super Kings"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 555,
-          "most_wickets_in_season": 12,
-          "best_record": "Most valuable player for Rajasthan Royals in 2018"
-        },
-        {
-          "name": "Mohammed Siraj",
-          "nationality": "Indian",
-          "teams_played": [
-            "Royal Challengers Bangalore"
-          ],
-          "role_in_team": "Bowler",
-          "most_runs_in_season": null,
-          "most_wickets_in_season": 29,
-          "best_record": "Best bowling figures for Royal Challengers Bangalore in 2022"
-        },
-        {
-          "name": "Shardul Thakur",
-          "nationality": "Indian",
-          "teams_played": [
-            "Chennai Super Kings",
-            "Delhi Capitals",
-            "Kolkata Knight Riders"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 120,
-          "most_wickets_in_season": 21,
-          "best_record": "Most wickets for Chennai Super Kings in 2021"
-        },
-        {
-          "name": "Washington Sundar",
-          "nationality": "Indian",
-          "teams_played": [
-            "Royal Challengers Bangalore",
-            "Sunrisers Hyderabad"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 166,
-          "most_wickets_in_season": 21,
-          "best_record": "Best economy rate for Royal Challengers Bangalore"
-        },
-        {
-          "name": "Jaydev Unadkat",
-          "nationality": "Indian",
-          "teams_played": [
-            "Rajasthan Royals",
-            "Mumbai Indians",
-            "Lucknow Super Giants"
-          ],
-          "role_in_team": "Bowler",
-          "most_runs_in_season": null,
-          "most_wickets_in_season": 24,
-          "best_record": "Most wickets for Rajasthan Royals in 2017"
-        },
-        {
-          "name": "Irfan Pathan",
-          "nationality": "Indian",
-          "teams_played": [
-            "Kings XI Punjab",
-            "Delhi Daredevils"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 249,
-          "most_wickets_in_season": 24,
-          "best_record": "Most valuable player for Kings XI Punjab in 2008"
-        },
-        {
-          "name": "Sourav Ganguly",
-          "nationality": "Indian",
-          "teams_played": [
-            "Kolkata Knight Riders",
-            "Pune Warriors"
-          ],
-          "role_in_team": "Batsman",
-          "most_runs_in_season": 471,
-          "most_wickets_in_season": null,
-          "best_record": "Captain of Kolkata Knight Riders in initial seasons"
-        },
-        {
-          "name": "Zaheer Khan",
-          "nationality": "Indian",
-          "teams_played": [
-            "Royal Challengers Bangalore",
-            "Delhi Daredevils"
-          ],
-          "role_in_team": "Bowler",
-          "most_runs_in_season": null,
-          "most_wickets_in_season": 21,
-          "best_record": "Best bowling figures for Royal Challengers Bangalore in 2009"
-        },
-        {
-          "name": "Harbhajan Singh",
-          "nationality": "Indian",
-          "teams_played": [
-            "Mumbai Indians",
-            "Chennai Super Kings"
-          ],
-          "role_in_team": "Bowler",
-          "most_runs_in_season": null,
-          "most_wickets_in_season": 24,
-          "best_record": "Most wickets in a season for Mumbai Indians"
-        },
-        {
-          "name": "Amit Mishra",
-          "nationality": "Indian",
-          "teams_played": [
-            "Delhi Capitals",
-            "Sunrisers Hyderabad"
-          ],
-          "role_in_team": "Bowler",
-          "most_runs_in_season": null,
-          "most_wickets_in_season": 26,
-          "best_record": "Most wickets in a season for Delhi Capitals"
-        },
-        {
-          "name": "Piyush Chawla",
-          "nationality": "Indian",
-          "teams_played": [
-            "Chennai Super Kings",
-            "Mumbai Indians"
-          ],
-          "role_in_team": "Bowler",
-          "most_runs_in_season": null,
-          "most_wickets_in_season": 25,
-          "best_record": "Most wickets in a season for Kolkata Knight Riders"
-        },
-        {
-          "name": "Morne Morkel",
+          "name": "Quinton de Kock",
           "nationality": "South African",
           "teams_played": [
-            "Delhi Daredevils",
-            "Kolkata Knight Riders"
-          ],
-          "role_in_team": "Bowler",
-          "most_runs_in_season": null,
-          "most_wickets_in_season": 25,
-          "best_record": "Best bowling figures for Delhi Daredevils"
-        },
-        {
-          "name": "Tim David",
-          "nationality": "Australian",
-          "teams_played": [
-            "Mumbai Indians"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 217,
-          "most_wickets_in_season": null,
-          "best_record": "Most sixes in a season for Mumbai Indians"
-        },
-        {
-          "name": "Axar Patel",
-          "nationality": "Indian",
-          "teams_played": [
-            "Delhi Capitals",
-            "Kings XI Punjab"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 186,
-          "most_wickets_in_season": 15,
-          "best_record": "Best economy rate for Delhi Capitals"
-        },
-        {
-          "name": "Suryakumar Yadav",
-          "nationality": "Indian",
-          "teams_played": [
             "Mumbai Indians",
-            "Kolkata Knight Riders"
+            "Lucknow Super Giants"
           ],
-          "role_in_team": "Batsman",
-          "most_runs_in_season": 516,
+          "role_in_team": "Wicketkeeper-Batsman",
+          "most_runs_in_season": 529,
           "most_wickets_in_season": null,
           "best_record": "Most runs in a season for Mumbai Indians"
         },
         {
-          "name": "Mohit Sharma",
+          "name": "Sanju Samson",
           "nationality": "Indian",
           "teams_played": [
+            "Rajasthan Royals",
+            "Delhi Daredevils"
+          ],
+          "role_in_team": "Wicketkeeper-Batsman",
+          "most_runs_in_season": 484,
+          "most_wickets_in_season": null,
+          "best_record": "Highest run-scorer for Rajasthan Royals"
+        },
+        {
+          "name": "Robin Uthappa",
+          "nationality": "Indian",
+          "teams_played": [
+            "Kolkata Knight Riders",
             "Chennai Super Kings",
-            "Gujarat Titans"
+            "Pune Warriors India",
+            "Mumbai Indians"
+          ],
+          "role_in_team": "Batsman",
+          "most_runs_in_season": 660,
+          "most_wickets_in_season": null,
+          "best_record": "Most runs in a season for Kolkata Knight Riders"
+        },
+        {
+          "name": "Ambati Rayudu",
+          "nationality": "Indian",
+          "teams_played": [
+            "Mumbai Indians",
+            "Chennai Super Kings"
+          ],
+          "role_in_team": "Batsman",
+          "most_runs_in_season": 602,
+          "most_wickets_in_season": null,
+          "best_record": "Most runs in a season for Chennai Super Kings"
+        },
+        {
+          "name": "Mitchell Starc",
+          "nationality": "Australian",
+          "teams_played": [
+            "Royal Challengers Bangalore"
           ],
           "role_in_team": "Bowler",
           "most_runs_in_season": null,
           "most_wickets_in_season": 20,
-          "best_record": "Most wickets for Chennai Super Kings in 2015"
+          "best_record": "Best bowling figures for Royal Challengers Bangalore"
         },
         {
-          "name": "Jason Holder",
-          "nationality": "West Indian",
+          "name": "Kagiso Rabada",
+          "nationality": "South African",
           "teams_played": [
-            "Sunrisers Hyderabad",
-            "Lucknow Super Giants"
+            "Delhi Capitals",
+            "Punjab Kings"
           ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 205,
-          "most_wickets_in_season": 26,
-          "best_record": "Best all-round performance for Sunrisers Hyderabad"
+          "role_in_team": "Bowler",
+          "most_runs_in_season": null,
+          "most_wickets_in_season": 30,
+          "best_record": "Most wickets in a season for Delhi Capitals"
         },
         {
-          "name": "Anil Kumble",
+          "name": "Trent Boult",
+          "nationality": "New Zealand",
+          "teams_played": [
+            "Mumbai Indians",
+            "Rajasthan Royals",
+            "Delhi Capitals"
+          ],
+          "role_in_team": "Bowler",
+          "most_runs_in_season": null,
+          "most_wickets_in_season": 25,
+          "best_record": "Best bowling figures in a match (4/18)"
+        },
+        {
+          "name": "Mohammed Shami",
           "nationality": "Indian",
           "teams_played": [
+            "Punjab Kings",
+            "Gujarat Titans",
+            "Delhi Daredevils"
+          ],
+          "role_in_team": "Bowler",
+          "most_runs_in_season": null,
+          "most_wickets_in_season": 20,
+          "best_record": "Best bowling figures for Punjab Kings"
+        },
+        {
+          "name": "Sikandar Raza",
+          "nationality": "Zimbabwean",
+          "teams_played": [
+            "Punjab Kings"
+          ],
+          "role_in_team": "All-Rounder",
+          "most_runs_in_season": 319,
+          "most_wickets_in_season": 10,
+          "best_record": "Best all-round performance for Punjab Kings"
+        },
+        {
+          "name": "Nicholas Pooran",
+          "nationality": "West Indian",
+          "teams_played": [
+            "Lucknow Super Giants",
+            "Sunrisers Hyderabad",
+            "Punjab Kings"
+          ],
+          "role_in_team": "Wicketkeeper-Batsman",
+          "most_runs_in_season": 306,
+          "most_wickets_in_season": null,
+          "best_record": "Most runs in a season for Lucknow Super Giants"
+        },
+        {
+          "name": "Marcus Stoinis",
+          "nationality": "Australian",
+          "teams_played": [
+            "Lucknow Super Giants",
+            "Delhi Capitals",
+            "Kings XI Punjab",
             "Royal Challengers Bangalore"
+          ],
+          "role_in_team": "All-Rounder",
+          "most_runs_in_season": 352,
+          "most_wickets_in_season": 13,
+          "best_record": "Best all-round performance for Delhi Capitals"
+        },
+        {
+          "name": "Prithvi Shaw",
+          "nationality": "Indian",
+          "teams_played": [
+            "Delhi Capitals"
+          ],
+          "role_in_team": "Batsman",
+          "most_runs_in_season": 716,
+          "most_wickets_in_season": null,
+          "best_record": "Highest run-scorer for Delhi Capitals"
+        },
+        {
+          "name": "Shubman Gill",
+          "nationality": "Indian",
+          "teams_played": [
+            "Gujarat Titans",
+            "Kolkata Knight Riders"
+          ],
+          "role_in_team": "Batsman",
+          "most_runs_in_season": 890,
+          "most_wickets_in_season": null,
+          "best_record": "Most runs in a season for Gujarat Titans"
+        },
+        {
+          "name": "Pat Cummins",
+          "nationality": "Australian",
+          "teams_played": [
+            "Kolkata Knight Riders",
+            "Delhi Daredevils",
+            "Mumbai Indians"
+          ],
+          "role_in_team": "Bowler",
+          "most_runs_in_season": null,
+          "most_wickets_in_season": 59,
+          "best_record": "Best bowling figures for Kolkata Knight Riders"
+        },
+        {
+          "name": "Sam Curran",
+          "nationality": "English",
+          "teams_played": [
+            "Punjab Kings",
+            "Chennai Super Kings"
+          ],
+          "role_in_team": "All-Rounder",
+          "most_runs_in_season": 383,
+          "most_wickets_in_season": 32,
+          "best_record": "Most valuable player in a season for Chennai Super Kings"
+        },
+        {
+          "name": "Ruturaj Gaikwad",
+          "nationality": "Indian",
+          "teams_played": [
+            "Chennai Super Kings"
+          ],
+          "role_in_team": "Batsman",
+          "most_runs_in_season": 636,
+          "most_wickets_in_season": null,
+          "best_record": "Most runs in a season for Chennai Super Kings"
+        },
+        {
+          "name": "Deepak Chahar",
+          "nationality": "Indian",
+          "teams_played": [
+            "Chennai Super Kings"
           ],
           "role_in_team": "Bowler",
           "most_runs_in_season": null,
           "most_wickets_in_season": 26,
-          "best_record": "Best bowling figures for Royal Challengers Bangalore"
-        },
-        {
-          "name": "Albie Morkel",
-          "nationality": "South African",
-          "teams_played": [
-            "Chennai Super Kings",
-            "Royal Challengers Bangalore"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 150,
-          "most_wickets_in_season": 25,
-          "best_record": "Best all-round performance for Chennai Super Kings"
-        },
-        {
-          "name": "Chris Morris",
-          "nationality": "South African",
-          "teams_played": [
-            "Delhi Daredevils",
-            "Rajasthan Royals"
-          ],
-          "role_in_team": "All-Rounder",
-          "most_runs_in_season": 348,
-          "most_wickets_in_season": 25,
-          "best_record": "Best all-round performance for Rajasthan Royals"
-        },
+          "best_record": "Best bowling figures for Chennai Super Kings"
+        },      
+          {
+            "name": "Varun Chakravarthy",
+            "nationality": "Indian",
+            "teams_played": [
+              "Kolkata Knight Riders"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 25,
+            "best_record": "Top wicket-taker for Kolkata Knight Riders in 2021"
+          },
+          {
+            "name": "Rahul Tewatia",
+            "nationality": "Indian",
+            "teams_played": [
+              "Gujarat Titans",
+              "Rajasthan Royals"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 255,
+            "most_wickets_in_season": 15,
+            "best_record": "Top finisher for Gujarat Titans in 2022"
+          },
+          {
+            "name": "Sandeep Sharma",
+            "nationality": "Indian",
+            "teams_played": [
+              "Punjab Kings",
+              "Rajasthan Royals"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 25,
+            "best_record": "Leading wicket-taker for Punjab Kings in 2014"
+          },
+          {
+            "name": "Kuldeep Yadav",
+            "nationality": "Indian",
+            "teams_played": [
+              "Delhi Capitals",
+              "Kolkata Knight Riders"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 17,
+            "best_record": "Most wickets for Kolkata Knight Riders in 2018"
+          },
+          {
+            "name": "Ishan Kishan",
+            "nationality": "Indian",
+            "teams_played": [
+              "Mumbai Indians"
+            ],
+            "role_in_team": "Wicketkeeper-Batsman",
+            "most_runs_in_season": 516,
+            "most_wickets_in_season": null,
+            "best_record": "Most runs for Mumbai Indians in 2020"
+          },
+          {
+            "name": "Murali Vijay",
+            "nationality": "Indian",
+            "teams_played": [
+              "Chennai Super Kings"
+            ],
+            "role_in_team": "Batsman",
+            "most_runs_in_season": 434,
+            "most_wickets_in_season": null,
+            "best_record": "Most runs for Chennai Super Kings in 2010"
+          },
+          {
+            "name": "Manish Pandey",
+            "nationality": "Indian",
+            "teams_played": [
+              "Kolkata Knight Riders",
+              "Sunrisers Hyderabad",
+              "Lucknow Super Giants"
+            ],
+            "role_in_team": "Batsman",
+            "most_runs_in_season": 401,
+            "most_wickets_in_season": null,
+            "best_record": "Top scorer for Kolkata Knight Riders in 2014"
+          },
+          {
+            "name": "Parthiv Patel",
+            "nationality": "Indian",
+            "teams_played": [
+              "Mumbai Indians",
+              "Royal Challengers Bangalore"
+            ],
+            "role_in_team": "Wicketkeeper-Batsman",
+            "most_runs_in_season": 443,
+            "most_wickets_in_season": null,
+            "best_record": "Top scorer for Royal Challengers Bangalore in 2018"
+          },
+          {
+            "name": "Mayank Agarwal",
+            "nationality": "Indian",
+            "teams_played": [
+              "Punjab Kings",
+              "Sunrisers Hyderabad"
+            ],
+            "role_in_team": "Batsman",
+            "most_runs_in_season": 641,
+            "most_wickets_in_season": null,
+            "best_record": "Highest run-scorer for Punjab Kings in 2020"
+          },
+          {
+            "name": "Rahul Dravid",
+            "nationality": "Indian",
+            "teams_played": [
+              "Royal Challengers Bangalore",
+              "Rajasthan Royals"
+            ],
+            "role_in_team": "Batsman",
+            "most_runs_in_season": 343,
+            "most_wickets_in_season": null,
+            "best_record": "Leading run-scorer for Rajasthan Royals in 2013"
+          },
+          {
+            "name": "Venkatesh Iyer",
+            "nationality": "Indian",
+            "teams_played": [
+              "Kolkata Knight Riders"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 370,
+            "most_wickets_in_season": 12,
+            "best_record": "Most valuable player for Kolkata Knight Riders in 2021"
+          },
+          {
+            "name": "Ben Stokes",
+            "nationality": "English",
+            "teams_played": [
+              "Rajasthan Royals",
+              "Chennai Super Kings"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 555,
+            "most_wickets_in_season": 12,
+            "best_record": "Most valuable player for Rajasthan Royals in 2017"
+          },
+          {
+            "name": "Mohammed Siraj",
+            "nationality": "Indian",
+            "teams_played": [
+              "Royal Challengers Bangalore"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 19,
+            "best_record": "Best economy rate in the powerplay for Royal Challengers Bangalore"
+          },
+          {
+            "name": "Shardul Thakur",
+            "nationality": "Indian",
+            "teams_played": [
+              "Chennai Super Kings",
+              "Delhi Capitals",
+              "Kolkata Knight Riders"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 120,
+            "most_wickets_in_season": 21,
+            "best_record": "Most wickets for Chennai Super Kings in 2021"
+          },
+          {
+            "name": "Washington Sundar",
+            "nationality": "Indian",
+            "teams_played": [
+              "Royal Challengers Bangalore",
+              "Sunrisers Hyderabad"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 166,
+            "most_wickets_in_season": 21,
+            "best_record": "Best economy rate for Royal Challengers Bangalore"
+          },
+          {
+            "name": "Jaydev Unadkat",
+            "nationality": "Indian",
+            "teams_played": [
+              "Rajasthan Royals",
+              "Mumbai Indians",
+              "Lucknow Super Giants"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 24,
+            "best_record": "Second highest wicket-taker in IPL 2017 for Rising Pune Supergiants"
+          },
+          {
+            "name": "Irfan Pathan",
+            "nationality": "Indian",
+            "teams_played": [
+              "Kings XI Punjab",
+              "Delhi Daredevils"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 249,
+            "most_wickets_in_season": 24,
+            "best_record": "Key all-rounder for Kings XI Punjab in the early seasons"
+          },            {
+            "name": "Sourav Ganguly",
+            "nationality": "Indian",
+            "teams_played": [
+              "Kolkata Knight Riders",
+              "Pune Warriors"
+            ],
+            "role_in_team": "Batsman",
+            "most_runs_in_season": 471,
+            "most_wickets_in_season": null,
+            "best_record": "Captain of Kolkata Knight Riders in initial seasons"
+          },
+          {
+            "name": "Zaheer Khan",
+            "nationality": "Indian",
+            "teams_played": [
+              "Royal Challengers Bangalore",
+              "Delhi Daredevils"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 21,
+            "best_record": "Best bowling figures for Royal Challengers Bangalore in 2009"
+          },
+          {
+            "name": "Harbhajan Singh",
+            "nationality": "Indian",
+            "teams_played": [
+              "Mumbai Indians",
+              "Chennai Super Kings"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 24,
+            "best_record": "Most wickets in a season for Mumbai Indians"
+          },
+          {
+            "name": "Amit Mishra",
+            "nationality": "Indian",
+            "teams_played": [
+              "Delhi Capitals",
+              "Sunrisers Hyderabad"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 26,
+            "best_record": "Most wickets in a season for Delhi Capitals"
+          },
+          {
+            "name": "Piyush Chawla",
+            "nationality": "Indian",
+            "teams_played": [
+              "Chennai Super Kings",
+              "Mumbai Indians"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 25,
+            "best_record": "Most wickets in a season for Kolkata Knight Riders"
+          },
+          {
+            "name": "Morne Morkel",
+            "nationality": "South African",
+            "teams_played": [
+              "Delhi Daredevils",
+              "Kolkata Knight Riders"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 25,
+            "best_record": "Best bowling figures for Delhi Daredevils"
+          },
+          {
+            "name": "Tim David",
+            "nationality": "Australian",
+            "teams_played": [
+              "Mumbai Indians"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 217,
+            "most_wickets_in_season": null,
+            "best_record": "Most sixes in a season for Mumbai Indians"
+          },
+          {
+            "name": "Axar Patel",
+            "nationality": "Indian",
+            "teams_played": [
+              "Delhi Capitals",
+              "Kings XI Punjab"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 186,
+            "most_wickets_in_season": 15,
+            "best_record": "Best economy rate for Delhi Capitals"
+          },
+          {
+            "name": "Suryakumar Yadav",
+            "nationality": "Indian",
+            "teams_played": [
+              "Mumbai Indians",
+              "Kolkata Knight Riders"
+            ],
+            "role_in_team": "Batsman",
+            "most_runs_in_season": 516,
+            "most_wickets_in_season": null,
+            "best_record": "Most runs in a season for Mumbai Indians"
+          },
+          {
+            "name": "Mohit Sharma",
+            "nationality": "Indian",
+            "teams_played": [
+              "Chennai Super Kings",
+              "Gujarat Titans"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 20,
+            "best_record": "Most wickets for Chennai Super Kings in 2015"
+          },
+          {
+            "name": "Jason Holder",
+            "nationality": "West Indian",
+            "teams_played": [
+              "Sunrisers Hyderabad",
+              "Lucknow Super Giants"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 205,
+            "most_wickets_in_season": 26,
+            "best_record": "Best all-round performance for Sunrisers Hyderabad"
+          },
+          {
+            "name": "Anil Kumble",
+            "nationality": "Indian",
+            "teams_played": [
+              "Royal Challengers Bangalore"
+            ],
+            "role_in_team": "Bowler",
+            "most_runs_in_season": null,
+            "most_wickets_in_season": 26,
+            "best_record": "Best bowling figures for Royal Challengers Bangalore"
+          },
+          {
+            "name": "Albie Morkel",
+            "nationality": "South African",
+            "teams_played": [
+              "Chennai Super Kings",
+              "Royal Challengers Bangalore"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 150,
+            "most_wickets_in_season": 25,
+            "best_record": "Best all-round performance for Chennai Super Kings"
+          },
+          {
+            "name": "Chris Morris",
+            "nationality": "South African",
+            "teams_played": [
+              "Delhi Daredevils",
+              "Rajasthan Royals"
+            ],
+            "role_in_team": "All-Rounder",
+            "most_runs_in_season": 348,
+            "most_wickets_in_season": 25,
+            "best_record": "Best all-round performance for Rajasthan Royals"
+          },
         {
           "name": "Dale Steyn",
           "nationality": "South African",
